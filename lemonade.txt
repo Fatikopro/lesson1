@@ -3,3 +3,5 @@ Limonata Tarifi
 2.Su
 3.Seker
 4.Nane
+karistir
+5.Buz at
